@@ -5,3 +5,5 @@ Algoritma ve Programlama dersi yıl sonu ödevi olarak kullanıcıdan girilen ad
 Önemli Detaylar:
   - Fonksiyon kullanımı önemli
   - Sezar şifrelemede kaydırma sayısı öğrenci numarasının son rakamına göre ancak eğer 0 ise 0 gelmeyene kadar sağındaki rakam alınmalı. Bunu program kendisi bir fonksiyon ile almalı
+  - Program herhangi bir kişinin kendi bilgileri ile kullanılabilir olmalı. Yani mesela en büyük asal çarpanı kontrolü gibi durumlarda kullanıcıdan girilen öğrenci numarası kullanılmalı ve bir fonksiyon ile halledilmeli.
+  - Projenin tüm detaylarını pdften inceleyebilirsiniz.
