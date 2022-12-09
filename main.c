@@ -13,8 +13,6 @@ void ogrenciNoSonRakam(unsigned int sayi, int *sayininSonRakami);
 
 // structs
 struct User {
-	char name[25];
-	char surname[25];
 	char fullname[50];
 	char fullnameSifreli[50];
 	unsigned int ogrNo;
